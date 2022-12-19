@@ -1,4 +1,4 @@
-# nodejs-canil
+# nodejs-PetDevShop
 Projeto feito no módulo de Node + Typescript
 
 ### Pré-requisitos globais:
