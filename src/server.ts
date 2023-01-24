@@ -20,4 +20,4 @@ server.use((req: Request, res: Response) => {
     res.render('pages/404');
 })
 
-server.listen(process.env.PORT);
+server.listen(2000);
